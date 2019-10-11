@@ -1,6 +1,6 @@
 # dostuff-cli
 
-CLI to Automate the Boring Stuff
+CLI to Automate the Boring Stuff.
 
 ### Installation
 
