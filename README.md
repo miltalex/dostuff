@@ -7,4 +7,3 @@ CLI to Automate the Boring Stuff.
 ```shell
 pip install  git+https://github.com/miltalex/dostuff.git
 ```
-
